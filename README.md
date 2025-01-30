@@ -1,10 +1,20 @@
-## Awwwards clone coding
+<div align="center">
+  <h1 align="center">Awwwards clone coding</h3>
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  </div>
+  <br />
 
-This repository is based on tutorial by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+  <p>
+    This repository is based on tutorial by 
+    <a href="https://www.youtube.com/@javascriptmastery" target="_blank">JavaScript Mastery</a> <br />
+    <a href="https://www.youtube.com/watch?v=zA9r5zTllx4&t=6106s" target="_blank">Build and Deploy an Awwwards Winning Website | React.js, Tailwind CSS, GSAP</a>
+  </p>
 
-[Build and Deploy an Awwwards Winning Website | React.js, Tailwind CSS, GSAP](https://www.youtube.com/watch?v=zA9r5zTllx4&t=6106s)
-
-I used TypeScript. so not the same code as the tutorial.
+  <br />
+</div>
 
 ![1](https://github.com/miinhho/awwwards-clonecoding/blob/main/image/1.png?raw=true)
 ![2](https://github.com/miinhho/awwwards-clonecoding/blob/main/image/2.png?raw=true)
